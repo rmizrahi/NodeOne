@@ -1,6 +1,6 @@
 {
     "author": "Reuven Mizrahi",
-    "name": "censorify",
+    "name": "censorify-rmizrahi",
     "version": "0.1.1",
     "description": "Censors words out of text",
     "main": "censortext",
